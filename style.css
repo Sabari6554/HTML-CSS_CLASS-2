@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(252, 252, 252);
+    
+}
+h1{
+    text-align: center;
+}
+.top
+{
+    text-align: center;
+}
+.obj{
+    text-align: center;
+    font-style: italic;
+    font-weight: 700;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+.foot{
+    text-align: center;
+} 
